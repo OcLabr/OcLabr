@@ -22,6 +22,7 @@ public class Main {
                 duplicate.add(integer);
                 System.out.println(count);
                 System.out.println(duplicate);
+                System.out.println("A");
             }
     }
 }
